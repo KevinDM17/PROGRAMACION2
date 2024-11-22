@@ -1,0 +1,250 @@
+738
+Agua Mineral 2.5 mediano
+Jugo de Naranja 4 grande
+Ensalada Cesar 6 sin picante
+Pollo a la Brasa 15 1 0 1 0 
+Hamburguesa 8.5 0 0 0 0 
+Strogonoff 25.75 1 1 0 1 
+936
+Coca-Cola 3.5 pequeno
+Lomo Saltado 12 0 1 1 1 
+Pollo a la Brasa 15 0 0 0 1 
+972
+Cafe 2 mediano
+Coca-Cola 3.5 mediano
+Agua Mineral 2.5 pequeno
+Jugo de Naranja 4 mediano
+Bruschetta 4 picante
+Guacamole 4.5 sin picante
+Pollo a la Brasa 15 0 1 0 0 
+Pasta Alfredo 10 0 1 1 1 
+648
+Ensalada Cesar 6 picante
+Strogonoff 25.75 0 0 0 1 
+Ceviche 9 1 0 1 1 
+554
+Cafe 2 pequeno
+Cafe 2 pequeno
+Ensalada Cesar 6 sin picante
+Quesadillas 5.5 picante
+Filete de Pescado 11 0 1 0 1 
+Ceviche 9 1 0 0 1 
+Pasta Alfredo 10 0 1 1 0 
+556
+Coca-Cola 3.5 grande
+Bruschetta 4 sin picante
+Ensalada Cesar 6 sin picante
+Nachos 5 sin picante
+Bruschetta 4 sin picante
+Pollo a la Brasa 15 1 0 1 0 
+180
+Jugo de Naranja 4 pequeno
+Jugo de Naranja 4 mediano
+Cafe 2 mediano
+Nachos 5 sin picante
+Ceviche 9 0 1 0 1 
+705
+Cafe 2 mediano
+Sprite 3 grande
+767
+Bruschetta 4 picante
+Hamburguesa 8.5 0 0 1 0 
+947
+Cafe 2 pequeno
+Jugo de Naranja 4 grande
+Nachos 5 picante
+200
+Sprite 3 mediano
+Cafe 2 mediano
+Coca-Cola 3.5 mediano
+994
+Agua Mineral 2.5 mediano
+Jugo de Naranja 4 mediano
+Cafe 2 pequeno
+654
+Guacamole 4.5 picante
+Lomo Saltado 12 1 1 1 0 
+328
+Coca-Cola 3.5 grande
+Ceviche 9 0 0 1 0 
+Pasta Alfredo 10 0 1 1 1 
+Hamburguesa 8.5 0 1 1 0 
+841
+Jugo de Naranja 4 pequeno
+Ensalada Cesar 6 sin picante
+Ensalada Cesar 6 sin picante
+Ensalada Cesar 6 sin picante
+Nachos 5 sin picante
+Pollo a la Brasa 15 0 0 0 0 
+734
+Pasta Alfredo 10 1 0 1 0 
+Filete de Pescado 11 1 1 1 1 
+Strogonoff 25.75 0 1 0 1 
+815
+Strogonoff 25.75 1 1 1 1 
+Ceviche 9 0 1 1 1 
+364
+Cafe 2 grande
+Coca-Cola 3.5 pequeno
+Jugo de Naranja 4 mediano
+Ensalada Cesar 6 picante
+Ceviche 9 0 0 0 1 
+Pollo a la Brasa 15 0 1 1 1 
+526
+Coca-Cola 3.5 grande
+Jugo de Naranja 4 grande
+Jugo de Naranja 4 mediano
+Bruschetta 4 sin picante
+Ensalada Cesar 6 sin picante
+Bruschetta 4 picante
+Strogonoff 25.75 0 0 1 1 
+Hamburguesa 8.5 1 0 1 0 
+837
+Coca-Cola 3.5 pequeno
+Coca-Cola 3.5 grande
+Ensalada Cesar 6 sin picante
+Ceviche 9 1 1 1 1 
+Hamburguesa 8.5 1 1 0 1 
+660
+Agua Mineral 2.5 mediano
+Ensalada Cesar 6 sin picante
+Nachos 5 sin picante
+Hamburguesa 8.5 1 0 0 1 
+214
+Sprite 3 pequeno
+879
+Jugo de Naranja 4 grande
+Quesadillas 5.5 sin picante
+Pollo a la Brasa 15 1 1 0 0 
+Hamburguesa 8.5 0 1 1 1 
+299
+Guacamole 4.5 sin picante
+Nachos 5 picante
+Hamburguesa 8.5 1 0 0 0 
+596
+Nachos 5 picante
+Guacamole 4.5 sin picante
+Pasta Alfredo 10 1 0 0 0 
+Ceviche 9 1 0 0 0 
+438
+Strogonoff 25.75 0 1 1 1 
+Pollo a la Brasa 15 0 1 1 0 
+Pollo a la Brasa 15 0 0 1 1 
+812
+Sprite 3 grande
+Jugo de Naranja 4 grande
+Jugo de Naranja 4 mediano
+Ensalada Cesar 6 sin picante
+Strogonoff 25.75 1 0 0 0 
+Ceviche 9 1 1 1 1 
+Pasta Alfredo 10 0 0 1 0 
+Hamburguesa 8.5 1 0 0 1 
+692
+Nachos 5 picante
+Ensalada Cesar 6 picante
+Pollo a la Brasa 15 1 0 1 1 
+169
+Jugo de Naranja 4 mediano
+Pasta Alfredo 10 0 0 0 1 
+684
+Pasta Alfredo 10 1 0 1 1 
+Pollo a la Brasa 15 0 0 1 1 
+Strogonoff 25.75 1 0 0 0 
+Strogonoff 25.75 0 0 1 0 
+Pollo a la Brasa 15 1 0 1 1 
+876
+Agua Mineral 2.5 mediano
+Ensalada Cesar 6 sin picante
+Bruschetta 4 sin picante
+Quesadillas 5.5 sin picante
+Lomo Saltado 12 0 1 0 0 
+820
+Nachos 5 sin picante
+Bruschetta 4 sin picante
+Ceviche 9 1 1 1 1 
+418
+Coca-Cola 3.5 grande
+Jugo de Naranja 4 pequeno
+Nachos 5 picante
+Ensalada Cesar 6 sin picante
+844
+Pollo a la Brasa 15 1 1 1 1 
+Ceviche 9 0 1 0 1 
+Strogonoff 25.75 0 0 0 0 
+191
+Cafe 2 pequeno
+Cafe 2 mediano
+Bruschetta 4 sin picante
+Strogonoff 25.75 1 0 1 0 
+161
+Agua Mineral 2.5 mediano
+Coca-Cola 3.5 grande
+Quesadillas 5.5 sin picante
+Ensalada Cesar 6 picante
+Nachos 5 picante
+Ensalada Cesar 6 sin picante
+194
+Cafe 2 mediano
+Ensalada Cesar 6 picante
+727
+Sprite 3 mediano
+Filete de Pescado 11 1 0 1 1 
+Pasta Alfredo 10 0 0 1 1 
+787
+Coca-Cola 3.5 mediano
+Quesadillas 5.5 sin picante
+Bruschetta 4 picante
+Ensalada Cesar 6 sin picante
+Filete de Pescado 11 0 0 1 0 
+858
+Sprite 3 pequeno
+Jugo de Naranja 4 pequeno
+Strogonoff 25.75 0 0 1 1 
+Ceviche 9 0 0 1 1 
+Ceviche 9 0 0 1 1 
+836
+Cafe 2 mediano
+Sprite 3 mediano
+Ensalada Cesar 6 sin picante
+Pasta Alfredo 10 0 1 1 0 
+400
+Sprite 3 mediano
+Guacamole 4.5 picante
+Guacamole 4.5 sin picante
+372
+Coca-Cola 3.5 pequeno
+Guacamole 4.5 sin picante
+981
+Sprite 3 pequeno
+Sprite 3 grande
+Strogonoff 25.75 0 1 0 0 
+Ceviche 9 0 1 0 0 
+327
+Cafe 2 mediano
+Jugo de Naranja 4 grande
+Agua Mineral 2.5 grande
+Bruschetta 4 sin picante
+Hamburguesa 8.5 0 0 1 0 
+358
+Nachos 5 picante
+Guacamole 4.5 picante
+Quesadillas 5.5 picante
+142
+Cafe 2 grande
+Agua Mineral 2.5 pequeno
+Quesadillas 5.5 sin picante
+Bruschetta 4 picante
+Pasta Alfredo 10 0 1 0 1 
+Pollo a la Brasa 15 1 1 1 1 
+465
+Sprite 3 mediano
+Nachos 5 picante
+Ensalada Cesar 6 sin picante
+Quesadillas 5.5 sin picante
+Lomo Saltado 12 0 1 1 1 
+Pollo a la Brasa 15 0 1 0 0 
+706
+Pollo a la Brasa 15 0 1 1 1 
+228
+Quesadillas 5.5 picante
+Filete de Pescado 11 0 1 1 0 
